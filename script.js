@@ -1,7 +1,3 @@
-// document.getElementById("count").innerText = 5
-
-
-// camelCase
 let countEl = document.getElementById("count-el")
 
 console.log(countEl)
