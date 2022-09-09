@@ -21,6 +21,6 @@ function undo() {
 
 function erase() {
   count = 0
-  saveEl.textContent = count
+  saveEl.textContent = saveEl
   countEl.textContent = count
 }
