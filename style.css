@@ -45,6 +45,14 @@ button {
     background: darkgreen;
 }
 
+#undo-btn {
+    background: darkred;
+}
+
+#clear-btn {
+    background: black;
+}
+
 #save-el {
     font-weight: bold;
 }
