@@ -20,7 +20,7 @@ function undo() {
 }
 
 function clear() {
-  saveEl.textContent = " "
+  saveEl.textContent = count
   countEl.textContent = 0
   count = 0
 }
