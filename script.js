@@ -18,3 +18,9 @@ function undo() {
   count -= 1
   countEl.textContent = count
 }
+
+function clear() {
+  saveEl.textContent = " "
+  countEl.textContent = 0
+  count = 0
+}
